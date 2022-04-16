@@ -1,4 +1,5 @@
 TODO:
 1) make the dictonary with names of months
+2) make the choose about month or year
 
 
