@@ -1,4 +1,4 @@
-The big database with sotck prices of Walmart
+The big database with stock prices of Walmart
 
 
 
